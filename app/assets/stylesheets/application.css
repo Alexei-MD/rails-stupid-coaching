@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+.btn{
+  background-color: lightcoral;
+  color: white;
+  margin-left: 20px;
+}
+.box-a{
+  background-color: antiquewhite;
+  width: max-content;
+  padding: 10px;
+  margin-left: 20px;
+  border-radius: 8px;
+  box-shadow: 10px 10px 8px #888888;
+}
+#submit{
+  background-color: burlywood;
+  border: 0px;
+  color: gray;
+  border-radius: 4px;
+}
+.form{
+  margin: 20px;
+}
